@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-attachment: fixed;
+}
+
+body{
+    background-image: linear-gradient(-45deg,#DBF227,#005C53 ) 
+   
+
+
+}
+
+main{
+    background-color: #042940;
+    width: 600px;
+    padding: 3%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #02141fb7
+}
+
+hr{
+    color: #DBF227;
+}
+
+h1{
+    color: #DBF227;
+    text-align: center;
+    text-shadow: 3px 3px 3px #02141f;
+
+}
+
+h2{
+    color:#9FC131; ;
+    text-align: justify;
+}
+
+p{
+    text-align: justify;
+    color: #D6D58E;
+}
